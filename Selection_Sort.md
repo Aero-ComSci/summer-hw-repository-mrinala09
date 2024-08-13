@@ -1,6 +1,6 @@
 # Selection Sort
 -------
-A sorting algorithm is an algorithm in which you find the smallest element in any list (unsorted) and replace it at the "beginning" of each list, and this repeats till the whole list is sorted in the correct order. 
+A sorting algorithm is an algorithm in which you find the smallest element in any list (unsorted) and replace it at the "beginning" of the list, and this repeats till the whole list is sorted in the correct order. 
 ## Brief Rundown
 
 1. Set the first element (index 0) as the smallest element
