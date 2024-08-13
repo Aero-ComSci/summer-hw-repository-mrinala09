@@ -65,7 +65,7 @@ git push -u origin master
 ```
 `-u` is used so that you can create a mainstream branch so any further push requests can be done without using `-u`
 
-## Step 5. Branches 
+## Step 6. Branches 
 
 ### Pushing a Branch to GitHub
 Now we'll push the commit in your branch to your new GitHub repo. This allows other people to see the changes you've made. If they're approved by the repository's owner, the changes can then be merged into the primary branch.
