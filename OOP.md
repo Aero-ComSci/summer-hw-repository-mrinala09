@@ -243,6 +243,19 @@ And a double underscore `__` to indicate a private member
 
 While any of these members can still be accessed it is helpful as it allows other people working on the project to be careful when using or trying to extract this type of data is it might encrypted and proteced/private for a reason
 
+```python
+class Employee():
+    def __init__(self):
+        self.id = None
+        # Write your code below
+        self._id = None
+        self.__id = None
+
+e = Employee()
+print(dir(e))
+```
+We can see how we used the different lengths of underscores for the `id`'s!
+
 
 WOW OOP SURE DOES HAVE A LOT OF STUFF! NOW HAVE FUN!!!!!
   
